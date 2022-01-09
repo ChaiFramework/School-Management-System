@@ -1,0 +1,7 @@
+SID    Name        Mode  Enl.  GPA
+------------------------------------
+S2025  Arjun_Pillai FT   4    4.0
+S2123  Sach_K       FT   4    3.25
+S1234  Ash_K        FT   4    2.25
+S1909  Rhea_C       FT   3    2.0
+S1324  And_N        PT   2 !  2.0
